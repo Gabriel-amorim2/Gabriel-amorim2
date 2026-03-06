@@ -15,20 +15,7 @@ Principais tecnologias
 - Docker
 - Git
 - CI/CD 
-- Redis 
   
-Estudando POO, SOLID, Clean Code e DDD
-Interesse crescente em Arquitetura Distribuída e Sistemas Escaláveis
-
-📈 Objetivos
-
-Evoluir para um Desenvolvedor Backend Júnior/Pleno
-
-Dominar arquitetura de software e sistemas distribuídos
-
-Construir projetos de portfólio com alto nível técnico e arquitetural
-
-Atuar em times que valorizem qualidade de código e boas práticas
 
 📫 Contato
 
